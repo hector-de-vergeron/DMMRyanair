@@ -1,0 +1,49 @@
+.box-destination {
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  margin: 10px 0px;
+  width: auto;
+  font-size: 14px;
+  text-align: center;
+  flex-grow: 1;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.box-destination p:hover {
+  color: gold;
+}
+
+#malta {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.5) 50%),url("../../images/malta.jpg");
+}
+
+#paris {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.5) 50%),url("../../images/paris.jpeg");
+}
+
+#dublin {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.5) 50%),url("../../images/dublin.jpg");
+}
+
+#stpetersburg {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.5) 50%),url("../../images/stpetersburg.jpeg");
+}
+
+#rio {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.5) 50%),url("../../images/rio.jpeg");
+}
+
+#marrakech {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.5) 50%),url("../../images/marrakech.jpg");
+}
+
+#cuba {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.5) 50%),url("../../images/cuba.png");
+}
+
+#beijing {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.5) 50%),url("../../images/beijing.jpg");
+}

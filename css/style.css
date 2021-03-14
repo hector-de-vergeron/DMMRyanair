@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;900&display=swap");
+@import url(components/container.css);
+@import url(components/banner.css);
+@import url(components/btn-grey.css);
+@import url(components/list-inline.css);
+@import url(components/box-white.css);
+@import url(components/team.css);
+@import url(components/btn-grey-exp.css);
+@import url(components/wrapper.css);
+@import url(components/box-destination.css);
+
+body {
+  font-family: 'Merriweather', serif;
+  font-size: 16;
+  font-weight: 300;
+  margin: 0;
+  background-color: rgb(230, 230, 230);
+}
+
+h1 {
+  margin: 30;
+}
+
+#maintitle {
+  color: rgba(138, 170, 49, 1);
+}
+
+img {
+  border-radius: 50%;
+  width: 100px;
+}

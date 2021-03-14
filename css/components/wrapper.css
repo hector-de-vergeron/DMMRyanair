@@ -1,0 +1,46 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(120px, auto);
+}
+
+#malta {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+#paris {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+#dublin {
+  grid-column: 3;
+  grid-row: 1;
+}
+
+#stpetersburg {
+  grid-column: 4;
+  grid-row: 1;
+}
+
+#rio {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+#marrakech {
+  grid-column: 2;
+  grid-row: 2;
+}
+
+#cuba {
+  grid-column: 3;
+  grid-row: 2;
+}
+
+#beijing {
+  grid-column: 4;
+  grid-row: 2;
+}
